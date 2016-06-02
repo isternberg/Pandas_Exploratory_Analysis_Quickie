@@ -1,1 +1,1 @@
-# Pandas_Exploratory_Analysis_Quicky
+# Pandas_Exploratory_Analysis_Quickie
