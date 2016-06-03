@@ -60,6 +60,3 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
-
-#Kaggle Data
-school_and_country_table.csv
